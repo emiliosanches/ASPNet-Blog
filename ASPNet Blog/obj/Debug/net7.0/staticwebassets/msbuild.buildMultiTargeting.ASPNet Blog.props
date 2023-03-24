@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASPNet Blog.props" />
+</Project>
