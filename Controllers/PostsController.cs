@@ -4,11 +4,11 @@ using System.Diagnostics;
 
 namespace ASPNet_Blog.Controllers
 {
-    public class HomeController : Controller
+    public class PostsController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<PostsController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public PostsController(ILogger<PostsController> logger)
         {
             _logger = logger;
         }
@@ -18,9 +18,14 @@ namespace ASPNet_Blog.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Create()
         {
             return View();
+        }
+
+        public IActionResult Read(int id)
+        {
+            return View(id);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
