@@ -29,3 +29,34 @@ C:\Users\emili\Documents\Coding\ASPNet Blog\ASPNet Blog\obj\Debug\net7.0\refint\
 C:\Users\emili\Documents\Coding\ASPNet Blog\ASPNet Blog\obj\Debug\net7.0\ASPNet Blog.pdb
 C:\Users\emili\Documents\Coding\ASPNet Blog\ASPNet Blog\obj\Debug\net7.0\ASPNet Blog.genruntimeconfig.cache
 C:\Users\emili\Documents\Coding\ASPNet Blog\ASPNet Blog\obj\Debug\net7.0\ref\ASPNet Blog.dll
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\bin\Debug\net7.0\appsettings.json
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\bin\Debug\net7.0\ASPNet Blog.staticwebassets.runtime.json
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\bin\Debug\net7.0\ASPNet Blog.exe
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\bin\Debug\net7.0\ASPNet Blog.deps.json
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\bin\Debug\net7.0\ASPNet Blog.runtimeconfig.json
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\bin\Debug\net7.0\ASPNet Blog.dll
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\bin\Debug\net7.0\ASPNet Blog.pdb
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\ASPNet Blog.csproj.AssemblyReference.cache
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\ASPNet Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\ASPNet Blog.AssemblyInfoInputs.cache
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\ASPNet Blog.AssemblyInfo.cs
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\ASPNet Blog.csproj.CoreCompileInputs.cache
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\ASPNet Blog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\ASPNet Blog.RazorAssemblyInfo.cache
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\ASPNet Blog.RazorAssemblyInfo.cs
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\staticwebassets\msbuild.ASPNet Blog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\staticwebassets\msbuild.build.ASPNet Blog.props
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ASPNet Blog.props
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ASPNet Blog.props
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\scopedcss\bundle\ASPNet Blog.styles.css
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\ASPNet Blog.dll
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\refint\ASPNet Blog.dll
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\ASPNet Blog.pdb
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\ASPNet Blog.genruntimeconfig.cache
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\ref\ASPNet Blog.dll
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\emili\Documents\Coding\ASPNet-Blog\ASPNet Blog\obj\Debug\net7.0\scopedcss\projectbundle\ASPNet Blog.bundle.scp.css

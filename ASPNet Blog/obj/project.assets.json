@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emili\\Documents\\Coding\\ASPNet Blog\\ASPNet Blog\\ASPNet Blog.csproj",
+      "projectUniqueName": "C:\\Users\\emili\\Documents\\Coding\\ASPNet-Blog\\ASPNet Blog\\ASPNet Blog.csproj",
       "projectName": "ASPNet Blog",
-      "projectPath": "C:\\Users\\emili\\Documents\\Coding\\ASPNet Blog\\ASPNet Blog\\ASPNet Blog.csproj",
+      "projectPath": "C:\\Users\\emili\\Documents\\Coding\\ASPNet-Blog\\ASPNet Blog\\ASPNet Blog.csproj",
       "packagesPath": "C:\\Users\\emili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emili\\Documents\\Coding\\ASPNet Blog\\ASPNet Blog\\obj\\",
+      "outputPath": "C:\\Users\\emili\\Documents\\Coding\\ASPNet-Blog\\ASPNet Blog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
