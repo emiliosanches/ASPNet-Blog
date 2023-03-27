@@ -43,7 +43,14 @@ namespace ASPNet_Blog.Controllers
 
         public IActionResult Read(int id)
         {
-            return View(id);
+            PostModel post = _context.Posts.Find(id);
+
+            if (post == null)
+            {
+                return NotFound();
+            }
+
+            return View(post);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
