@@ -1,7 +1,16 @@
+using ASPNet_Blog;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<DatabaseContext>(
+    options => options.UseNpgsql(
+        builder.Configuration.GetConnectionString("BlogDatabase")
+    )
+);
 
 var app = builder.Build();
 

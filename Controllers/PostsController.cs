@@ -7,10 +7,12 @@ namespace ASPNet_Blog.Controllers
     public class PostsController : Controller
     {
         private readonly ILogger<PostsController> _logger;
+        private readonly DatabaseContext _context;
 
-        public PostsController(ILogger<PostsController> logger)
+        public PostsController(ILogger<PostsController> logger, DatabaseContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
         public IActionResult Index()
@@ -32,14 +34,9 @@ namespace ASPNet_Blog.Controllers
                 return View(data);
             }
 
-            PostModel post = new()
-            {
-                Id = 1,
-                Title = data.Title,
-                HeaderImageUrl = data.HeaderImageUrl,
-                Body = data.Body,
-                CreatedAt = DateTime.Now
-            };
+            PostModel post = _context.Posts.Add(data).Entity;
+
+            _context.SaveChanges();
 
             return RedirectToAction("Read", "Posts", new { post.Id });
         }

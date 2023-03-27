@@ -15,7 +15,7 @@ namespace ASPNet_Blog.Models
 
         [Url]
         [DisplayName("Header Image URL")]
-        public string HeaderImageUrl { get; set; }
+        public string? HeaderImageUrl { get; set; }
 
         [Required]
         [DisplayName("Publish Date")]
