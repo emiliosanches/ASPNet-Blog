@@ -18,9 +18,30 @@ namespace ASPNet_Blog.Controllers
             return View();
         }
 
+        [HttpGet]
         public IActionResult Create()
         {
             return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create(PostModel data)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(data);
+            }
+
+            PostModel post = new()
+            {
+                Id = 1,
+                Title = data.Title,
+                HeaderImageUrl = data.HeaderImageUrl,
+                Body = data.Body,
+                CreatedAt = DateTime.Now
+            };
+
+            return RedirectToAction("Read", "Posts", new { post.Id });
         }
 
         public IActionResult Read(int id)

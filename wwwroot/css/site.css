@@ -18,5 +18,7 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
 }

@@ -1,0 +1,54 @@
+﻿h3 {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.container ::deep .postForm {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+.inputContainer ::deep label {
+    font-size: 0.875rem;
+    color: #909090;
+}
+
+.inputContainer ::deep input {
+    border: 0;
+    border-bottom: 1px solid #909090;
+    outline: none;
+    border-radius: 3px;
+    padding: 4px;
+}
+
+.inputContainer ::deep textarea {
+    flex: 1;
+}
+
+.inputContainer ::deep span.field-validation-error {
+    color: red;
+    font-size: 0.75rem;
+}
+
+.fillFlex {
+    flex: 1;
+}
+
+.submitButton {
+    margin-top: 1rem;
+    border: 0;
+    background: #dadada;
+    padding: 1rem;
+    border-radius: 6px;
+}
+
+.submitButton:hover {
+    background: #d0d0d0;
+}
